@@ -14,5 +14,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## :computer: Projeto
 
 Desenvolvimento do site fictício de modelo profissional. Tem como objetivo praticar os conceitos adquiridos durante o acompanhamento das aulas.
-
-========================
